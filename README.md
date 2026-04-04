@@ -12,19 +12,6 @@ Sag panelde Ataturk'un Genclere Hitabesi akar.
 
 ---
 
-## ⚙️ Kurulum (Mac)
-
-### 1. .NET yukle
-https://dotnet.microsoft.com/download adresine git, .NET 9 indir ve kur.
-
-### 2. Repoyu indir
-Terminal ac ve yaz:
-git clone https://github.com/ozknnberat/C-ile-Askeri-Tetris.git
-cd C-ile-Askeri-Tetris
-dotnet run
-
----
-
 ## ⚙️ Kurulum (Windows)
 
 ### 1. .NET yukle
