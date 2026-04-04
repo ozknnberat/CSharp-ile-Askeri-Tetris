@@ -1,13 +1,7 @@
-# 🎖️ C# ile Askeri Tetris - Turkiye Yapimi
+# 🎖️ C# ile Askeri Tetris
 
 Klasik Tetris oyununun Turk Komando temasıyla yeniden tasarlanmis hali.
 C# ve MonoGame kullanılarak gelistirilmistir.
-
----
-
-## 👨‍💻 Gelistirici
-**Berat Ozkan**
-Programlama Odevi - 2026
 
 ---
 
