@@ -1,0 +1,6 @@
+# .NET / MonoGame derleme çıktıları
+bin/
+obj/
+*.user
+.vs/
+.DS_Store
